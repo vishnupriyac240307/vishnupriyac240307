@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vishnupriyac240307/vishnupriyac240307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Vishnu Priya Chinnasamy
 
-Here are some ideas to get you started:
+### Aspiring Data Analyst • B.Sc. Computer Science with Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Transforming raw data into meaningful insights through analytics, visualization, and modern technologies.
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<!-- We'll fill this next -->
+
+---
+
+## 🛠 Tech Stack
+
+<!-- We'll fill this next -->
+
+---
+
+## 📊 GitHub Analytics
+
+<!-- We'll add stats later -->
+
+---
+
+## 💼 Featured Projects
+
+<!-- We'll showcase your best projects -->
+
+---
+
+## 📜 Certifications
+
+<!-- We'll add your Power BI workshop and future certifications -->
+
+---
+
+## 📫 Connect With Me
+
+<!-- We'll add badges -->
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
