@@ -316,7 +316,7 @@ React • TypeScript • Tailwind CSS • Framer Motion
 </tr>
 
 </table>
----
+
 
 ## 📜 Certifications
 
@@ -343,7 +343,6 @@ React • TypeScript • Tailwind CSS • Framer Motion
 🎓 30 Days Python Micro Course
 
 </p>
----
 
 # 🌐 Connect With Me
 
