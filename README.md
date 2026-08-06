@@ -127,34 +127,35 @@ Become a Data Analyst who solves real-world business problems using data-driven 
 
 <td width="50%">
 
-<h3 align="center">📊 Smart Expense Insights</h3>
+<h3 align="center">🛒 Mini E-Commerce Cart System</h3>
 
 <p align="center">
 
-Analyze spending patterns through interactive dashboards and visual reports.
+Responsive Single-Page Shopping Application built with React featuring product search, category filtering, sorting, shopping cart management, checkout workflow, and local storage.
 
 <br><br>
 
 ⚙️ <b>Tech Stack</b><br>
 
-React • JavaScript • Chart.js • Bootstrap
+React.js • Vite • JavaScript • CSS3 • React Router
 
 <br><br>
 
-✨ <b>Features</b>
+✨ <b>Key Features</b>
 
-- Expense Tracking
-- Interactive Charts
-- Monthly Reports
-- Data Visualization
+- Product search & category filters
+- Dynamic shopping cart management
+- Checkout workflow
+- Local Storage persistence
+- Responsive user interface
 
 <br><br>
 
-<a href="YOUR_GITHUB_LINK">
+<a href="https://github.com/vishnupriyac240307/mini-ecommerce-cart">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="YOUR_LIVE_LINK">
+<a href="https://miniecommercecart.netlify.app/">
 <img src="https://img.shields.io/badge/Live_Demo-00C2FF?style=for-the-badge&logo=vercel">
 </a>
 
@@ -164,14 +165,13 @@ React • JavaScript • Chart.js • Bootstrap
 
 <td width="50%">
 
-<img src="./assets/projects/expense-dashboard.png">
+<img src="./assets/projects/mini-ecommerce-cart.png" alt="Mini E-Commerce Cart">
 
 </td>
 
 </tr>
 
 </table>
-
 ---
 
 <table>
@@ -208,7 +208,7 @@ Python • Flask • HTML • CSS
 
 <br><br>
 
-<a href="(https://github.com/vishnupriyac240307/ai-career-readiness-analyzer)">
+<a href="https://github.com/vishnupriyac240307/ai-career-readiness-analyzer">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
