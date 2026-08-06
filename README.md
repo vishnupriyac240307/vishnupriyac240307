@@ -20,8 +20,6 @@
 Passionate about turning data into meaningful insights and building impactful projects.
 </p>
 
----
-
 # 🚀 About Me
 
 🎓 B.Sc. Computer Science with Data Analytics Student
@@ -49,7 +47,6 @@ Passionate about turning data into meaningful insights and building impactful pr
 
 Become a Data Analyst who solves real-world business problems using data-driven solutions.
 
----
 
 # 🛠 Tech Stack
 
@@ -81,53 +78,10 @@ Become a Data Analyst who solves real-world business problems using data-driven 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishnupriyac240307&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyac240307&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=vishnupriyac240307&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph
 
 [![Vishnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishnupriyac240307&theme=tokyo-night&hide_border=true)](https://github.com/vishnupriyac240307)
 
----
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/vishnupriyac240307/vishnupriyac240307/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</p>
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vishnupriyac240307&theme=algolia&no-frame=true&margin-w=15"/>
-
-</p>
-
----
 
 # 🚀 Featured Projects
 
@@ -182,7 +136,6 @@ React.js • Vite • JavaScript • CSS3 • React Router
 </tr>
 
 </table>
----
 
 <table>
 
@@ -229,8 +182,6 @@ Python • Flask • HTML • CSS
 </tr>
 
 </table>
-
----
 
 <table>
 
@@ -282,8 +233,6 @@ JavaScript • HTML • CSS
 
 </table>
 
----
-
 <table>
 
 <tr>
@@ -331,7 +280,6 @@ React • TypeScript • Tailwind CSS • Framer Motion
 
 </table>
 
-
 ## 📜 Certifications
 
 <p align="left">
@@ -376,13 +324,10 @@ React • TypeScript • Tailwind CSS • Framer Motion
 
 </p>
 
----
 
 # 💬 Quote
 
 > **"Every dataset tells a story. My goal is to discover it."**
-
----
 
 <p align="center">
 
