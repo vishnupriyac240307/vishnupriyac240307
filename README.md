@@ -208,7 +208,7 @@ Python • Flask • HTML • CSS
 
 <br><br>
 
-<a href="YOUR_GITHUB_LINK">
+<a href="(https://github.com/vishnupriyac240307/ai-career-readiness-analyzer)">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
@@ -250,8 +250,12 @@ JavaScript • HTML • CSS
 
 <br><br>
 
-<a href="YOUR_GITHUB_LINK">
+<a href="https://github.com/vishnupriyac240307/ai-study-planner">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://ai-int-study-planner.netlify.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00C2FF?style=for-the-badge&logo=vercel">
 </a>
 
 </p>
