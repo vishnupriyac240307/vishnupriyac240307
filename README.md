@@ -147,9 +147,51 @@ Become a Data Analyst who solves real-world business problems using data-driven 
 
 # 📜 Certifications
 
-🏅 Power BI Workshop
+<table>
+<tr>
+<td>
 
-*(Add more certifications as you earn them.)*
+### 📊 Data Analytics
+
+- 🏅 Data Analytics Job Simulation – Deloitte (Forage)
+- 🏅 Business Analytics with Excel
+- 🏅 Power BI Workshop
+- 🏅 30 Days Power BI Micro Course
+
+</td>
+
+<td>
+
+### 🤖 AI & Machine Learning
+
+- 🏅 Generative AI and AI Agent
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 💻 Software Development
+
+- 🏅 React App Development Internship
+- 🏅 Solutions Architecture Job Simulation – AWS (Forage)
+
+</td>
+
+<td>
+
+### 🔐 Cybersecurity
+
+- 🏅 Cybersecurity Analyst Job Simulation – TCS (Forage)
+- 🏅 Cyber Job Simulation – Deloitte (Forage)
+
+</td>
+</tr>
+
+</table>
+
+---
 
 ---
 
