@@ -119,30 +119,203 @@ Become a Data Analyst who solves real-world business problems using data-driven 
 
 ---
 
-# 💼 Featured Projects
+# 🚀 Featured Projects
 
-⭐ Smart Expense Insights
+<table>
 
-📊 Expense Analysis Dashboard
+<tr>
+
+<td width="50%">
+
+<h3 align="center">📊 Smart Expense Insights</h3>
+
+<p align="center">
+
+Analyze spending patterns through interactive dashboards and visual reports.
+
+<br><br>
+
+⚙️ <b>Tech Stack</b><br>
+
+React • JavaScript • Chart.js • Bootstrap
+
+<br><br>
+
+✨ <b>Features</b>
+
+- Expense Tracking
+- Interactive Charts
+- Monthly Reports
+- Data Visualization
+
+<br><br>
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="YOUR_LIVE_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-00C2FF?style=for-the-badge&logo=vercel">
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<img src="./assets/projects/expense-dashboard.png">
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-⭐ AI Career Readiness Analyzer
+<table>
 
-🤖 AI-powered Resume Analysis
+<tr>
+
+<td width="50%">
+
+<img src="./assets/projects/career.png">
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🤖 AI Career Readiness Analyzer</h3>
+
+<p align="center">
+
+AI-powered platform that evaluates career readiness and provides personalized recommendations.
+
+<br><br>
+
+⚙️ <b>Tech Stack</b><br>
+
+Python • Flask • HTML • CSS
+
+<br><br>
+
+✨ <b>Features</b>
+
+- Resume Analysis
+- Career Suggestions
+- Skill Gap Detection
+
+<br><br>
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-⭐ Mini Ecommerce Cart
+<table>
 
-🛒 Responsive Shopping Experience
+<tr>
+
+<td width="50%">
+
+<h3 align="center">📚 AI Study Planner</h3>
+
+<p align="center">
+
+Smart planner that helps students organize tasks and schedules.
+
+<br><br>
+
+⚙️ <b>Tech Stack</b><br>
+
+JavaScript • HTML • CSS
+
+<br><br>
+
+✨ <b>Features</b>
+
+- Study Planner
+- Task Scheduling
+- Clean UI
+
+<br><br>
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<img src="./assets/projects/studyplanner.png">
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-⭐ Portfolio Website
+<table>
 
-🌐 Personal Portfolio
+<tr>
 
+<td width="50%">
+
+<img src="./assets/projects/portfolio.png">
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🌐 Personal Portfolio</h3>
+
+<p align="center">
+
+Modern portfolio website showcasing projects, certifications, and skills.
+
+<br><br>
+
+⚙️ <b>Tech Stack</b><br>
+
+React • TypeScript • Tailwind CSS • Framer Motion
+
+<br><br>
+
+✨ <b>Features</b>
+
+- Responsive Design
+- Project Showcase
+- Certifications
+- Contact Form
+
+<br><br>
+
+<a href="https://vpc-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel">
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
 ---
 
 ## 📜 Certifications
