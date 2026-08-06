@@ -109,6 +109,16 @@ Become a Data Analyst who solves real-world business problems using data-driven 
 
 ---
 
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/vishnupriyac240307/vishnupriyac240307/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</p>
+
 # 🏆 GitHub Trophies
 
 <p align="center">
