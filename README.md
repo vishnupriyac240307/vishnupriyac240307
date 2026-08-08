@@ -1,158 +1,286 @@
-<!-- ===========================
-        HEADER BANNER
-=========================== -->
+<div align="center">
 
-<p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070b18,100:0A1128&height=200&section=header&text=Vishnu%20Priya%20Chinnasamy&fontSize=42&fontColor=00D9FF&fontAlignY=40&desc=Aspiring%20Software%20Developer%20%26%20Data%20Analyst&descSize=18&descColor=8B9BB4&descAlignY=62&animation=fadeIn" width="100%"/>
 
-<!-- ===========================
-        TYPING TEXT
-=========================== -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=%24+whoami;Vishnu+Priya+%7C+B.Sc+CSDA+%40+KPR+College;%24+cat+focus.txt;AI-powered+analytics+for+real-world+systems;%24+status;Open+to+SDE+%26+Data+Analyst+roles" alt="Typing SVG" />
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Vishnu+Priya;Aspiring+Data+Analyst;Computer+Science+with+Data+Analytics;Python+%7C+SQL+%7C+Power+BI;Always+Learning+Something+New" />
-</p>
+<br/>
 
-<h1 align="center">💙 Welcome to my GitHub Profile 💙</h1>
+![Degree](https://img.shields.io/badge/Degree-B.Sc.%20CSDA-070b18?style=flat-square&labelColor=070b18&color=00D9FF)
+![University](https://img.shields.io/badge/KPR%20College-Coimbatore-070b18?style=flat-square&labelColor=070b18&color=00D9FF)
+![Location](https://img.shields.io/badge/📍-Coimbatore,%20India-070b18?style=flat-square&labelColor=070b18&color=00D9FF)
 
-<p align="center">
-Passionate about turning data into meaningful insights and building impactful projects.
-</p>
+<br/>
 
-# 🚀 About Me
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-070b18?style=for-the-badge&logo=vercel&logoColor=00D9FF&labelColor=070b18)](https://vishnupriya-portfolio-eta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-070b18?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=070b18)](https://www.linkedin.com/in/vishnupriyachinnasamy/)
+[![Email](https://img.shields.io/badge/EMAIL-070b18?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=070b18)](mailto:vishnupriya.c.240307@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-070b18?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=070b18)](https://github.com/vishnupriyac240307)
 
-🎓 B.Sc. Computer Science with Data Analytics Student
+<br/>
 
-📍 Coimbatore, Tamil Nadu
+![Profile Views](https://komarev.com/ghpvc/?username=vishnupriyac240307&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/vishnupriyac240307?color=00D9FF&style=flat-square&label=FOLLOWERS&labelColor=070b18)
+![Stars](https://img.shields.io/github/stars/vishnupriyac240307?color=00D9FF&style=flat-square&label=STARS&labelColor=070b18)
 
-📊 Interested in
+</div>
 
-- Data Analytics
-- Business Intelligence
-- Data Visualization
-- Machine Learning
-- Dashboard Development
+<br/>
 
-🌱 Currently Learning
+## `$ cat about.md`
 
-- Python
-- SQL
-- Power BI
-- Excel
-- Machine Learning
-- React
+Third-year B.Sc. Computer Science with Data Analytics student at KPR College of Arts, Science and Research (90.5% aggregate), building at the intersection of **AI-powered analytics and real-world systems**. Hands-on with computer vision, IoT monitoring, and full-stack web development — from drowsiness-detection models to production inventory systems. IEEE Student Member, published researcher, and a builder who ships working prototypes over polished slides.
 
-🎯 Career Goal
+```bash
+ROLE      = "Aspiring Software Developer & Data Analyst"
+EXP       = "Student Developer | 3rd Year B.Sc. CSDA"
+DOMAIN    = ["Computer Vision", "IoT Analytics", "Web Development", "Data Visualization"]
+STACK     = ["Python", "Java", "SQL", "React.js", "JavaScript", "HTML/CSS", "OpenCV", "Power BI"]
+OPEN_TO   = ["Software Developer Intern", "Data Analyst Intern"]
+```
 
-Become a Data Analyst who solves real-world business problems using data-driven solutions.
+<br/>
 
+## `$ ls tech-stack/`
 
-# 🛠 Tech Stack
+**Languages & Core**
+![Skills](https://skillicons.dev/icons?i=python,java,js,html,css,react&theme=dark)
 
-## 💻 Programming Languages
+**Data & Tools**
+![Skills](https://skillicons.dev/icons?i=github,vscode&theme=dark)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql" />
-</p>
+<br/>
 
-## 📊 Data Analytics
+## `$ grep -r "specialty" ./`
 
-<p>
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-070b18?style=flat-square&labelColor=070b18&color=00D9FF)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-070b18?style=flat-square&labelColor=070b18&color=00D9FF)
+![IoT Systems](https://img.shields.io/badge/IoT%20Systems-070b18?style=flat-square&labelColor=070b18&color=00D9FF)
+![Full Stack Web](https://img.shields.io/badge/Full%20Stack%20Web-070b18?style=flat-square&labelColor=070b18&color=00D9FF)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-070b18?style=flat-square&labelColor=070b18&color=00D9FF)
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<br/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+## `$ cat expertise.md`
 
-</p>
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| Data Analytics & Visualization | ⭐⭐⭐⭐ | Power BI, MS Excel, data interpretation, dashboarding |
+| Computer Vision | ⭐⭐⭐⭐ | OpenCV, dlib — real-time facial landmark detection |
+| Web Development | ⭐⭐⭐⭐ | React.js, Vite, JavaScript, HTML5/CSS3 |
+| Database & SQL | ⭐⭐⭐ | Relational DB fundamentals, database-driven systems |
+| IoT & Anomaly Detection | ⭐⭐⭐ | Sensor data monitoring, real-time anomaly flagging |
+| Python Programming | ⭐⭐⭐⭐ | Core scripting, automation, data pipelines |
 
-## 🌐 Web Development
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,flask" />
-</p>
+## `$ ./run featured-projects.sh`
 
-## ⚙️ Tools
+<details open>
+<summary><b>🚗 Driver Drowsiness Detection System</b></summary>
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
+Real-time computer vision system to identify driver fatigue and reduce accident risk by monitoring eye closure and facial landmarks.
 
-# 📊 Contribution Graph
+| Attribute | Detail |
+|:---|:---|
+| Stack | Python, OpenCV, dlib |
+| Scale | Real-time video frame processing |
+| Impact | Alert mechanism for drowsiness signs; improved detection accuracy via real-time image processing |
 
-[![Vishnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishnupriyac240307&theme=tokyo-night&hide_border=true)](https://github.com/vishnupriyac240307)
+</details>
 
+<details>
+<summary><b>🏭 Real-Time Production & Inventory Management System</b> <i>(Ongoing)</i></summary>
+<br/>
 
-# 🚀 Featured Projects
+Database-driven system to monitor garment production and inventory operations end-to-end.
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🤖 **AI Career Readiness Analyzer** | AI-powered application that evaluates career readiness, identifies skill gaps, and provides personalized recommendations. | Python • Flask • React • REST API | [💻 GitHub](https://github.com/vishnupriyac240307/ai-career-readiness-analyzer) |
-| 📚 **AI Study Planner** | Smart study planner that generates personalized schedules and helps students organize their learning. | React • JavaScript • HTML • CSS | [💻 GitHub](https://github.com/vishnupriyac240307/ai-study-planner) • [🌐 Live Demo](https://ai-int-study-planner.netlify.app/) |
-| 🛒 **Mini E-Commerce Cart System** | Responsive shopping application with product search, category filtering, sorting, shopping cart, checkout, and local storage. | React • Vite • JavaScript • CSS • React Router | [💻 GitHub](https://github.com/vishnupriyac240307/mini-ecommerce-cart) • [🌐 Live Demo](https://miniecommercecart.netlify.app/) |
-| 🌐 **Developer Portfolio** | Personal portfolio showcasing projects, certifications, skills, and achievements. | React • TypeScript • Tailwind CSS • Framer Motion | [🌐 Portfolio](https://vpc-portfolio.netlify.app/) |
+| Attribute | Detail |
+|:---|:---|
+| Stack | Python, SQL, HTML, CSS, JavaScript |
+| Scale | Raw material tracking + production monitoring + stock management |
+| Impact | Automated reporting for operational efficiency (in progress) |
 
-## 📜 Certifications
+</details>
 
-<p align="left">
+<details>
+<summary><b>📡 Industrial Monitoring System</b></summary>
+<br/>
 
-🎓 Data Analytics Job Simulation — Deloitte (Forage)
+IoT-based industrial monitoring system with anomaly detection for real-time sensor parameters.
 
-🎓 Cybersecurity Analyst Job Simulation — TCS (Forage)
+| Attribute | Detail |
+|:---|:---|
+| Stack | IoT, Python, Data Monitoring |
+| Scale | Continuous real-time sensor data collection |
+| Impact | Early-warning anomaly detection to prevent system failures |
 
-🎓 Cyber Job Simulation — Deloitte (Forage)
+</details>
 
-🎓 Solutions Architecture Job Simulation — AWS (Forage)
+<details>
+<summary><b>🛒 Mini E-Commerce Cart System</b></summary>
+<br/>
 
-🎓 Generative AI & AI Agent
+Responsive single-page e-commerce web app with full checkout workflow.
 
-🎓 React App Development Internship
+| Attribute | Detail |
+|:---|:---|
+| Stack | React.js, Vite, JavaScript, HTML5, CSS3, React Router DOM, Local Storage |
+| Scale | Product search, category filtering, price sorting |
+| Impact | Complete checkout flow with quantity management + order summary |
 
-🎓 Business Analytics with Excel
+</details>
 
-🎓 Power BI Workshop
+<details>
+<summary><b>🥥 SKY Traders — Export Company Website</b></summary>
+<br/>
 
-🎓 30 Days Power BI Micro Course
+Informational website for a coconut export business, covering products, export process, and buyer enquiry flow.
 
-🎓 30 Days Python Micro Course
+| Attribute | Detail |
+|:---|:---|
+| Stack | React, HTML, CSS, JavaScript |
+| Scale | Multi-section site — products, export process, gallery, partners, contact/enquiry form |
+| Impact | Live client-facing site for an international export business |
 
-</p>
+</details>
 
-# 🌐 Connect With Me
+<br/>
 
-<p align="center">
+## `$ tail -f experience.log`
 
-<a href="https://www.linkedin.com/in/vishnupriyachinnasamy">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
+> No formal work experience yet — currently focused on academic projects, publications, and hands-on builds.
 
-<a href="mailto:vishnupriya.c.2403@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
-</a>
+<br/>
 
-<a href="https://vpc-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel">
-</a>
+## `$ cat achievements.md`
 
-</p>
+<div align="center">
 
+| Achievement | Issuer | Year |
+|:---|:---|:---:|
+| Certificate of Proficiency — Highest Academic Performer, B.Sc. CSDA | KPR College of Arts, Science and Research | 2025 |
+| Award for Pursuing Academic Excellence | The NGP School | 2023 |
+| Zonal Rank 1 (South) — Commerce Olympiad | ICSI | 2023 |
+| Paper Presentation — ICBAIC'24 (Generative AI in Analytical Era) | ICBAIC | 2024 |
+| Publication — "Cybersecurity in the Age of Quantum Computing" | Blue Ava Ford Publications | 2024 |
 
-# 💬 Quote
+</div>
 
-> **"Every dataset tells a story. My goal is to discover it."**
+<br/>
 
-<p align="center">
+## `$ whoami --education`
 
-<img src="https://komarev.com/ghpvc/?username=vishnupriyac240307&label=Profile%20Views&color=00C2FF&style=for-the-badge"/>
+[![Education](https://img.shields.io/badge/B.Sc.%20Computer%20Science%20with%20Data%20Analytics-070b18?style=for-the-badge&labelColor=070b18&color=00D9FF)](https://github.com/vishnupriyac240307)
 
-</p>
+**KPR College of Arts, Science and Research**, Coimbatore — 2024–Present — Aggregate 90.5%
 
----
+<br/>
 
-<h3 align="center">
+## `$ cat certifications.txt`
 
-💙 Thanks for visiting my profile!
+- Introduction to Microsoft Excel
+- TCS Cybersecurity Analyst Job Simulation
+- Office Master Power BI Workshop
+- Power BI 30 Days Micro Course Certificate
+- Naan Mudhalvan React App Development
+- Basics in HRM
+- Deloitte Data Analytics
+- AWS Solutions Architecture
+- Python 30 Days Micro Course Certificate
 
-⭐ If you like my work, consider giving a star to my repositories.
+<br/>
 
-</h3>
+## `$ curl github-stats/`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vishnupriyac240307&show_icons=true&hide_border=true&bg_color=070b18&title_color=00D9FF&icon_color=00D9FF&text_color=E6F1FF&ring_color=00D9FF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnupriyac240307&hide_border=true&background=070b18&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E6F1FF&currStreakNum=E6F1FF&sideNums=E6F1FF&dates=8B9BB4" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyac240307&layout=compact&hide_border=true&bg_color=070b18&title_color=00D9FF&text_color=E6F1FF&langs_count=8" width="49%"/>
+
+</div>
+
+<br/>
+
+## `$ ./show trophies.sh`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vishnupriyac240307&theme=algolia&no-frame=true&no-bg=true&column=7&row=1&title.color=00D9FF)](https://github.com/vishnupriyac240307)
+
+</div>
+
+<br/>
+
+## `$ tail -f activity-graph.log`
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishnupriyac240307&bg_color=070b18&color=00D9FF&line=00D9FF&point=E6F1FF&area=true&hide_border=true)
+
+</div>
+
+<br/>
+
+## `$ ./summary --full`
+
+<div align="center">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnupriyac240307&theme=github_dark)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishnupriyac240307&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishnupriyac240307&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishnupriyac240307&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishnupriyac240307&theme=github_dark" width="49%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
+## `$ cat current-focus.yaml`
+
+```yaml
+learning:
+  - Advanced data analytics techniques
+  - Database-driven system design
+
+building:
+  - Real-Time Production & Inventory Management System (garment manufacturing)
+  - SKY Traders — export company website
+
+exploring:
+  - Cybersecurity trends
+  - AI applications in analytics
+
+open_to:
+  - Software Developer Intern
+  - Data Analyst Intern
+```
+
+<br/>
+
+## `$ ./connect.sh`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-070b18?style=for-the-badge&logo=vercel&logoColor=00D9FF&labelColor=070b18)](https://vishnupriya-portfolio-eta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-070b18?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=070b18)](https://www.linkedin.com/in/vishnupriyachinnasamy/)
+[![Email](https://img.shields.io/badge/EMAIL-070b18?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=070b18)](mailto:vishnupriya.c.240307@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-070b18?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=070b18)](https://github.com/vishnupriyac240307)
+
+<br/>
+
+*"Building real-world solutions, one commit at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b18,100:0A1128&height=100&section=footer" width="100%"/>
+
+</div>
